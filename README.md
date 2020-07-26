@@ -1,4 +1,4 @@
 ﻿# JavaScript-Everyday
 
-# DataType Conversiton
-
+### DataType Conversiton
+### String methods
