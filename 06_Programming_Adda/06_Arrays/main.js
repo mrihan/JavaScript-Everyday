@@ -30,4 +30,4 @@ cars[1].barnd = { barnd: "Honda", price: 85000 };
 console.log(cars[1]);
 
 let numberoftype = [1, 3, 7];
-console.log(numberoftype.length);
+console.log(numberoftype.length            .);
