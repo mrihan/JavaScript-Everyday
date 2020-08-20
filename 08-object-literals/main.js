@@ -33,5 +33,15 @@ for (let i = 0; i < people.length; i++) {
   console.log(people[i].name);
 }
 
+
+let user = {
+  fullName = "Md. Manik Rihan";
+  email = "mdmrihan@gmail.com";
+  userName = "mrihan";
+  country = "Bangladesh";
+  age = 24;
+}
+console.log(user);
+
 //output
 //console.log(value);
